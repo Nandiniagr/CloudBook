@@ -15,7 +15,7 @@
 <h3 align="center">CloudBook</h3>
 
   <p align="center">
-    - A bookstore management system
+    - A notes application
     <br />
 <!--     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -39,9 +39,10 @@ Objective :
 <li>To increase organisational skills</li>
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-<img src="images/main_bms.PNG" alt="Logo" width="800" height="500">
-<img src="images/login_bms.PNG" alt="Logo" width="800" height="500">
-<img src="images/dashboard_bms.png" alt="Logo" width="800" height="500">
+<img src="images/cloudnote-photos/1 (13).jpeg" alt="Logo" width="800" height="500">
+<img src="images/cloudnote-photos/1 (6).jpeg" alt="Logo" width="800" height="500">
+<img src="images/cloudnote-photos/1 (3).jpeg" alt="Logo" width="500" height="500">
+<img src="images/cloudnote-photos/1 (8).jpeg" alt="Logo" width="800" height="500">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -80,12 +81,6 @@ Project Link: [https://github.com/Nandiniagr/CloudBook](https://github.com/Nandi
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-More images of application
-
-<img src="images/update_data2_bms.PNG" alt="Logo" width="800" height="500">
-<img src="images/check_ava_bms.PNG" alt="Logo" width="800" height="500">
-<img src="images/sell_books_bms.PNG" alt="Logo" width="800" height="500">
-<img src="images/stats_bms.PNG" alt="Logo" width="800" height="500">
   
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
