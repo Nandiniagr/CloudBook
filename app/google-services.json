@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125171503099",
+    "project_id": "cloudbook-d3ef8",
+    "storage_bucket": "cloudbook-d3ef8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125171503099:android:99718f4fb08ffe4df2455e",
+        "android_client_info": {
+          "package_name": "com.example.cloudbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125171503099-aru1orkpstls4uvceutm1oi9qfj3otut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAvATdAf-f4GVdvrsjkhYorEh6YwuEo1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125171503099-aru1orkpstls4uvceutm1oi9qfj3otut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
